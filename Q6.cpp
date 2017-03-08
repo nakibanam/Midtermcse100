@@ -14,7 +14,9 @@ int main()
     cin >> num;
     cout << "Enter the denominator value: " << endl;
     cin >> den;
-
+    
+    // declaring and equating formulae for quotients and remainders
+        
     int quo = num/den;
     int rem = num%den;
 
