@@ -30,6 +30,9 @@ int main()
     else{
         cout << "Its very hot in here!"<< endl;
     }
+
+    return 0;
+
 }
 
 
